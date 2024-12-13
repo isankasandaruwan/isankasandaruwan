@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub+Profile;I'm+Your+Name;+Developer+%7C+Coder+%7C+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub+Profile;I'm+Isanka+Sandaruwan;+Developer+%7C+Coder+%7C+Learner" alt="Typing SVG" />
 </p>
 
 ---
@@ -32,8 +32,8 @@
 
 ### **👨‍💻 About Me**
 
-- 👋 Hi, I'm **Your Name**
-- 🎂 I'm **21 years old**
+- 👋 Hi, I'm **Isanka Sandaruwan**
+- 🎂 I'm **24 years old**
 - ✨ Interested in **HTML, CSS, JavaScript, C++, Hacking, Web Development**
 - 📚 Currently pursuing **Computer Systems and Network Engineering**
 - 🏢 Active member of **KCD, GDG, and AI/ML communities**
